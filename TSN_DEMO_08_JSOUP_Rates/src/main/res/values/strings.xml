@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Практическая работа №8</string>
+    <string name="загрузка_данных">загрузка данных…</string>
+    <string name="Обновить">ОБНОВИТЬ</string>
+</resources>

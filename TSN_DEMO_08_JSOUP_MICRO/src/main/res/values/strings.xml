@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TSN_DEMO_08_JSOUP_MICRO</string>
+    <string name="loading">загрузка данных…</string>
+    <string name="update">ОБНОВИТЬ</string>
+    <string name="not_data">нет данных…</string>
+    <string name="error">Error!</string>
+</resources>
